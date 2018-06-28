@@ -109,7 +109,7 @@ def get_answers():
 def update_image_storage():
     """This operation should clear DB if run multiple times on the same DB
 
-    8 Points: 3 for xpath (1 each), 1 for correct resource GET, 1 for correct DB cleaning, 1 for correct DB saving,
+    8 Points: 3 for xpath (1 each), 1 for correct resource GET, 2 for correct DB entry handling,
               2 for correct regex, 2 for Transaction explanation
     -0.5 for small mistakes (return value...)
 
