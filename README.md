@@ -59,7 +59,7 @@ You have to set the correct PythonPath when executing the tests to the base dire
 The PythonPath is the base path for the Python interpreter, which is used for resolving imports.
 When you are executing the `main.py` file from the project root, you most likely will not have to modify your PythonPath.
 
-In order to execute this project, you have to have a recent Python Interpreter (we recommend at least Python 3.6, 3.5 should work as well, Python 2 is not working) with pip (normally installed along).
+In order to execute this project, you have to have a recent Python Interpreter (we recommend Python 3.6, 3.5 should work as well, Python 2 is not working) with pip (normally installed along).
 Also you have to install all the project requirements stated in `requirements.txt`.
 You can do so by executing `pip3 install -r requirements.txt --no-cache-dir` in your project folder.
 
